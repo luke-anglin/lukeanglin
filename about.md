@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 <p class="message">
-  Hey, I'm Luke. I do software engineering, data science and DevOps, and enjoy every moment of it. 
+  Hey, I'm Luke. I wrote a book called <i>The Big Ten</i>. Give it a read! I'm also an engineer on the side. 
 </p>
 
 <div class="card" style="width: 18rem;">
@@ -14,8 +15,7 @@ title: About
     <p class="card-text">Contact me</p>
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item">Email: lta9vw@virginia.edu</li>
-    <li class="list-group-item">Github: luke-anglin</li>
+    <li class="list-group-item">Email: lukeanglin@icloud.com</li>
   </ul>
   <div class="card-body">
     <a href="https://github.com/luke-anglin" style="margin-right: 5em;" class="card-link">GitHub</a>
