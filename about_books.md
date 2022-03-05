@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /lukeanglin/about/
 ---
 
 <p class="message">
